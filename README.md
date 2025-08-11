@@ -30,5 +30,5 @@ A simple two-player Tic Tac Toe game built using Java. This project runs in the 
 1. *Clone the repository*
 
 ```bash
-git clone https://github.com/sreenadh375/Tic-Tac-Toe.git
+git clone https://github.com/shanmukhireddy/tictactoe.git
 cd tic-tac-toe-java
